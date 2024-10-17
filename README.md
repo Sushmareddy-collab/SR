@@ -2,11 +2,11 @@
 Project Overview
 This project performs Sentiment Analysis on a dataset of Amazon product reviews. The aim is to classify customer feedback into three sentiment categories: Positive, Neutral, and Negative. Additionally, the project explores trends in customer satisfaction and dissatisfaction across different product categories.
 
-Dataset
+#Dataset
 The dataset used in this project is sourced from Kaggle and contains various Amazon product reviews, including text reviews, product ratings, and metadata such as the date of review and product categories.
-
 Dataset Source: Amazon Product Reviews Dataset
 File Used: Reviews.csv
+
 Project Steps
 The project workflow includes the following steps:
 
